@@ -1,0 +1,39 @@
+{
+  "name": "edukasionalis",
+  "short_name": "edukasionalis",
+  "scope": "https://www.edukasionalis.my.id/",
+  "start_url": "https://www.edukasionalis.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Edukasionalis adalah sebuah blog pendidikan yang dibuat dengan tujuan meningkatkan kualitas pola pikir serta mengembangkan potensi diri masing-masing.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GLM_KMJFXD4/YF8g3Cul0CI/AAAAAAAAEmw/gyf9wUf2AiMqDtsTEO8juVatnN3x7zJKQCLcBGAsYHQ/s48/logo-edu-512.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GLM_KMJFXD4/YF8g3Cul0CI/AAAAAAAAEmw/gyf9wUf2AiMqDtsTEO8juVatnN3x7zJKQCLcBGAsYHQ/s72/logo-edu-512.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GLM_KMJFXD4/YF8g3Cul0CI/AAAAAAAAEmw/gyf9wUf2AiMqDtsTEO8juVatnN3x7zJKQCLcBGAsYHQ/s96/logo-edu-512.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GLM_KMJFXD4/YF8g3Cul0CI/AAAAAAAAEmw/gyf9wUf2AiMqDtsTEO8juVatnN3x7zJKQCLcBGAsYHQ/s144/logo-edu-512.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GLM_KMJFXD4/YF8g3Cul0CI/AAAAAAAAEmw/gyf9wUf2AiMqDtsTEO8juVatnN3x7zJKQCLcBGAsYHQ/s168/logo-edu-512.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GLM_KMJFXD4/YF8g3Cul0CI/AAAAAAAAEmw/gyf9wUf2AiMqDtsTEO8juVatnN3x7zJKQCLcBGAsYHQ/s192/logo-edu-512.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/........./........./s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
